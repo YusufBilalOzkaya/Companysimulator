@@ -1,2 +1,2 @@
 # Companysimulator
-a simulator application project written with c language
+a simulator application project written with pure c language
