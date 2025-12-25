@@ -12,6 +12,9 @@ math.h (Mathematical Functions): Used for complex financial modeling, specifical
 
 string.h (String Handling): Performs safe memory copying (strcpy), length calculations (strlen), and buffer manipulation for dynamic string storage.
 
+
+--------------(For users who do not wish to compile the source code, a pre-compiled .exe file is included within the project files)----------------
+
 ⚙️ Compilation and Installation
 You can compile and run this project on any system with a C compiler (GCC, Clang, or MSVC).
 
